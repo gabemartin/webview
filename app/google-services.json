@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593901674575",
+    "project_id": "edge-motor-museum",
+    "storage_bucket": "edge-motor-museum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593901674575:android:8220b5d150c716a8e90a3a",
+        "android_client_info": {
+          "package_name": "com.edgemotormuseum.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593901674575-7dgfap67l37jdi1okvlj4084mqs3qf4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKgywHlX5IAAioqnCFC_8rpycd9xxmWN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593901674575-7dgfap67l37jdi1okvlj4084mqs3qf4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
